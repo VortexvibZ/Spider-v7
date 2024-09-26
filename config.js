@@ -23,9 +23,9 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2349120730021']
-global.ownMain = '2349120730021'
-global.NamaOwner = 'MAX' //gausah diganti 
+global.owner = ['2348021291381']
+global.ownMain = '2348021291381'
+global.NamaOwner = '光希' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = 'Your father' //ganti aj klo mau
@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = `234`
 global.system = {
-gmail: `samuelcircute@gmail.com`,
+gmail: `光希`,
 }
 
 //===========================//
